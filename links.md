@@ -30,8 +30,12 @@ NLP的表示方式：
     * **离散式表示**：One-Hot，词带模型（Bag of Word），TF-IDF（词频-逆文档频率）   
     * **分布式表示**：n-gram，共现矩阵（Co-Occurrence Matrix），Word2Vec，GloVe，ELMO  
 
-一个挺棒的个人博客：https://www.cnblogs.com/jiangxinyang/  
+一个挺棒的个人博客：https://www.cnblogs.com/jiangxinyang/ 真的整理得非常用心  
+
+> [一份从入门到精通NLP的完整指南 ｜ NLPer](https://blog.csdn.net/fendouaini/article/details/98408754)  
+包括：自然语言处理（情感分析、句法分析、智能司法、机器翻译、意见挖掘等领域）、机器学习和深度学习、论文解析、pytorch、python、linux、基础数学知识和其他相关知识。
 
 ## 其他
 [分布式系统](http://qizhang.info/COMP130123.html) 课件 by 张奇  
-[Data Intensive Computing](http://qizhang.info/COMP630030.html) 课件 by 张奇
+[Data Intensive Computing](http://qizhang.info/COMP630030.html) 课件 by 张奇  
+[和我一起构建搜索引擎 && NLP](https://bitjoy.net/) by 国科大一个大佬  
