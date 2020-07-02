@@ -35,3 +35,8 @@ fun();
 
 另附 Markdown 代码高亮的支持语言列表：
 https://blog.csdn.net/shepherd_dirk/article/details/84646379
+
+另附 Markdown 文件的在线预览方式：  
+* https://maxiang.io/  
+* https://www.zybuluo.com/mdeditor  
+在 LaTeX 公式渲染等领域会做得更好
