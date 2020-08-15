@@ -9,7 +9,7 @@
 [win10系统极简安装Tensorflow2.1—gpu版本流程](https://blog.csdn.net/u011435933/article/details/104434104?utm_medium=distribute.pc_relevant.none-task-blog-baidujs-3)  
 
 nvidia-smi 命令需要配置PATH环境变量，查看到我的信息如下：
-![alt](nvidia-smi-screenshot.PNG)
+![alt](../assets/nvidia-smi-screenshot.PNG)
 
 cuda 和 cudnn其实都没有安装。命令 `conda install tensorflow-gpu==2.1.0` 会自动安装这些依赖包。我实际 install 的时候，下载了 300 多 MB 的包，并自动进行了安装，包括 tensorflow-gpu tensorboard cudnn-7.6.5 等等。
 

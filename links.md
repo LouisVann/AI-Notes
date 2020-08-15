@@ -6,9 +6,20 @@
 > （知乎上有）好多资料、好多大神推荐的routine，我该选哪个？  
 答： 一般来说每个方案都有一定道理也一定会有缺陷，**选一个能接受的做下去比刷知乎来的有用的多**。  
 
+西瓜书  
+南瓜书 https://datawhalechina.github.io/pumpkin-book  
+
+牛逼的tf2.0指南 https://tf.wiki/zh_hans/  
+这个repo用tf2.0实现了很多RS模型 https://github.com/BlackSpaceGZY/Recommender-System-with-TF2.0
+
 ## NLP 学习资源
 [NLP-Beginner：自然语言处理入门练习](https://github.com/FudanNLP/nlp-beginner)  
-[nlp-beginner-finish 即上方练习的solution](https://github.com/Alic-yuan/nlp-beginner-finish)  
+solutions:
+* https://github.com/jiacheng-ye/code-for-nlp-beginner
+* https://github.com/KuNyaa/nlp-beginner-implementations
+* https://github.com/htfhxx/nlp-beginner_solution
+* https://github.com/hmtbgc/nlp_beginner
+
 
 [Awesome lists about all kinds of interesting topics](https://github.com/sindresorhus/awesome)  
 [Awesome nlp](https://github.com/keon/awesome-nlp)  
@@ -39,3 +50,5 @@ NLP的表示方式：
 [分布式系统](http://qizhang.info/COMP130123.html) 课件 by 张奇  
 [Data Intensive Computing](http://qizhang.info/COMP630030.html) 课件 by 张奇  
 [和我一起构建搜索引擎 && NLP](https://bitjoy.net/) by 国科大一个大佬  
+
+[mini-batch 神经网络 example](https://www.cnblogs.com/FightLi/p/8305120.html)

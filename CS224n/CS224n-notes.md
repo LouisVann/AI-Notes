@@ -9,6 +9,8 @@ b站上 cs224n 资源众多，强烈安利这个系列，双语字幕可选 [201
 https://github.com/LooperXX/CS224n-Resource  
 https://github.com/LooperXX/CS224n-Reading-Notes  
 
+陈丹琦Stanford博士毕业论文：NEURAL READING COMPREHENSION AND BEYOND  
+
 ## 学习计划
 * 学习笔记无需费力整理，可参考 looperxx 的笔记进行学习
 * 对于每个 lecture，电子资源包括：
@@ -89,3 +91,8 @@ CRF 的公式推导：[CRF 条件随机场 概述](https://www.jianshu.com/p/5d6
 #### 5.1 ResNet
 Residual connections aka **ResNet**, also known as **skip-connections**  
 核心是增加了一个 identity connection，即 $F(x)+x$
+
+### 6. Measures
+机器学习算法中的准确率(Precision)、召回率(Recall)、F值(F-Measure)  
+https://www.cnblogs.com/Zhi-Z/p/8728168.html  
+![https://www.zhihu.com/question/19645541](https://picb.zhimg.com/80/d701da76199148837cfed83901cea99e_1440w.jpg?source=1940ef5c)
